@@ -15,7 +15,7 @@ headers = {
   'X-Requested-With': 'XMLHttpRequest'
 }
 url = 'https://www.coinbit.co.kr/webbbsmain/noticelists/chno-100/&page=1/&subject='
-telegram_token = '744999601:AAGd4Fsw6kBD_3SwTB9XJWsBrLNjTasvZME'
+telegram_token = 'secret'
 site = 'coinbit'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) #~/Project/TelegramBot
 
